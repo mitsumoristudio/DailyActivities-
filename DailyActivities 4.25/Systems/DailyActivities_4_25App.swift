@@ -3,7 +3,7 @@
 //  DailyActivities 4.25
 //
 //  Created by Satoshi Mitsumori on 4/25/24.
-//
+//  Copyright 2024 Satoshi Mitsumori. All rights reserved.
 
 import SwiftUI
 

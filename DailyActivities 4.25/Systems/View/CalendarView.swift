@@ -3,7 +3,7 @@
 //  DailyActivities 4.25
 //
 //  Created by Satoshi Mitsumori on 4/25/24.
-//
+//  Copyright 2024 Satoshi Mitsumori. All rights reserved.
 
 import Foundation
 import SwiftUI
@@ -179,14 +179,6 @@ extension CalenderView {
                     })
                     .buttonStyle(.plain)
                     
-//                    Image(systemName: "alarm.fill")
-//                        .font(.subheadline)
-//                        .foregroundColor(Color.pink)
-//
-//
-//                    Text(task.taskDate?.formatted(date: .omitted, time: .shortened) ?? "")
-//                        .foregroundStyle(.blue)
-//                        .font(.headline)
                 }
                 .hLeading()
                 
