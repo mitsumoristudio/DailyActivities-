@@ -10,9 +10,9 @@ List to simpify type of delays
 Built in countdown timer
 
 # Technology Used
-Swift/SwiftUI
-Xcode
-Core Data
-Firebase & Firebase Autentication
+- Swift/SwiftUI
+- Xcode
+- Core Data
+- Firebase & Firebase Autentication
 
 # 
