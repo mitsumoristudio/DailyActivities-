@@ -1,18 +1,16 @@
 
-# Construction Timer 
+# Daily Agendas
 
-A construction delay tracking app for people who want to understand accumulated delay for a project. 
+A time management app for creating agendas to take ownership of life obligation
 
 ## App Benefits
-Get an overview of where your project retained significant delays.
-Take ownership stake of change order brought by supplier, or General Contractor, etc.
-List to simpify type of delays
-Built in countdown timer
+- Manage your schedule efforlessly.
+- Check offr completed agenda items
+- Organize your weekly calendar and know upcoming commitments
 
 ## Technology Used
 - Swift/SwiftUI
 - Xcode
 - Core Data
-- Firebase & Firebase Autentication
 
 ## 
