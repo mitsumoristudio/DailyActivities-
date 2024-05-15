@@ -9,10 +9,10 @@ Take ownership stake of change order brought by supplier, or General Contractor,
 List to simpify type of delays
 Built in countdown timer
 
-# Technology Used
+## Technology Used
 - Swift/SwiftUI
 - Xcode
 - Core Data
 - Firebase & Firebase Autentication
 
-# 
+## 
