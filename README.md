@@ -1,7 +1,7 @@
 
 # Daily Agendas
 
-A time management app for creating agendas to take ownership of life obligation
+A time management app for creating agendas to take ownership of life obligation. Easy manage work life balance flow. 
 
 ## App Benefits
 - Manage your schedule efforlessly.
