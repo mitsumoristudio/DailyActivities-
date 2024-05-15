@@ -16,4 +16,4 @@ A time management app for creating agendas to take ownership of life obligation
 
 ##  App Features
 
-<a ><img src="https://github.com/mitsumoristudio/satoshimitsumori/blob/b57a4f115044f5ec1110fc171244c84ffcb358a9/Screen3%20Resized.jpg" width= "256" height = "500" /></a>
+<a ><img src="https://github.com/mitsumoristudio/DailyActivities-/blob/7367715a5744c8f9c1d23e4a220bc41257b7985e/Apple%20iPhone%2011%20Pro-2.png" width= "256" height = "500" /></a>
